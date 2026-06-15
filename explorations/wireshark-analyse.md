@@ -9,8 +9,7 @@
 
 ## Beobachtungen
 - Im FTP-Stream sieht man die Sequenz:
-  USER u:) (Benutzername mit Smiley)
-  PASS XjL
+  USER u:) (Benutzername mit Smiley) und PASS XjL
 - Direkt danach wird ein neuer TCP-Port geöffnet, über den die Shell läuft.
 - Ein IDS/IPS hätte diese ungewöhnliche Zeichenkombination im FTP-Traffic erkennen und blockieren können.
 
