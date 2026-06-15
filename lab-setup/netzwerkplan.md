@@ -12,6 +12,6 @@ Subnetz: `192.168.70.0/24`. Keine externe Erreichbarkeit.
 **Monitoring:** Wireshark läuft direkt auf Kali und zeichnet sämtlichen Traffic auf dem Host-only-Interface auf. Damit können Angriffe aus Sicht des Netzwerks analysiert werden (z.B. Protokollanomalien, Exploit-Patterns).
 
 **Screenshots:**  
-https://github.com/ds20cs/cybersec-lab/blob/main/assets/screenshots/netzwerkplan_beweis_kali.png?raw=true
+https://github.com/ds20cs/cybersec-lab/blob/main/assets/screenshots/netzwerkplan_beweis_kali.png
 
-https://github.com/ds20cs/cybersec-lab/blob/main/assets/screenshots/netzwerkplan_beweis_metasploitable2.png?raw=true
+https://github.com/ds20cs/cybersec-lab/blob/main/assets/screenshots/netzwerkplan_beweis_metasploitable2.png
