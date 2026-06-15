@@ -18,3 +18,4 @@
 - Netzwerksegmentierung: FTP-Verkehr gehört nicht in ein unsicheres Subnetz.
 
 ## Screenshot
+https://github.com/ds20cs/cybersec-lab/blob/main/assets/screenshots/wireshark_ftp_exploit.png
